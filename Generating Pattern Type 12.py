@@ -1,4 +1,4 @@
-#WPP to print patter #pattern03
+#WPP to print patter #pattern12
 n=int(input("Enter number of rows: "))
 for i in range(n):
     for j in range(n-i-1):
